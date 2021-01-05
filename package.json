@@ -15,7 +15,7 @@
     "cover": "npm run test -- --coverage"
   },
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "express": "4.14.0",
     "history": "^4.4.0",
     "lodash": "4.16.2",
